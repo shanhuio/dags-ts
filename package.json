@@ -16,7 +16,7 @@
     "license": "AGPL 3.0",
     "private": false,
     "dependencies": {
-        "@shanhuio/misc": "github:shanhuio/misc-ts",
+        "@shanhuio/misc": "github:shanhuio/lib-misc-ts",
         "@types/jquery": "^3.5.6",
         "@types/react": "^17.0.14",
         "@types/react-dom": "^17.0.9",
